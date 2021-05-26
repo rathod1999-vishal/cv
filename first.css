@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+  .first {
+	 background: linear-gradient(to left, #0B78CC, #9ACDEB);
+}
+
+.contact {
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10%;
+	font-size: 20px;
+	border: 2px solid white;
+
+}
+
+.profile {
+	font-size: 19px;
+
+}
+
+.edu {
+	margin-left: 20px;
+	text-decoration: none ;
+	font-size: 19px;
+	text-decoration-style: none;
+	padding-top: 20px;
+
+}
+
+.edu ul li a{
+	text-decoration-style: none;
+  display: block;
+}
+
+.hobb {
+		margin-left: 20px;
+	text-decoration: none ;
+	font-size: 19px;
+	text-decoration-style: none;
+}
+
+.edu-detail{
+		margin-left: 20px;
+	text-decoration: none ;
+	font-size: 19px;
+	text-decoration-style: none;
+}
+
+.skill {
+		margin-left: 20px;
+	text-decoration: none ;
+	font-size: 19px;
+	text-decoration-style: none;
+}
