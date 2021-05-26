@@ -1,0 +1,18 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+  .first {
+	 background: linear-gradient(to left, #0B78CC, #9ACDEB);
+}
+
+.contact {
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-top: 10%;
+	font-size: 20px;
+	border: 2px solid white;
+
+}
